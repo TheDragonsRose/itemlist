@@ -3,7 +3,7 @@ title: "TheDragonRose's Shop of Chaos"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list for TDR.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: 'https://github.com/TheDragonsRose/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'TheDragonsRose'
