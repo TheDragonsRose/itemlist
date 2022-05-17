@@ -16435,12 +16435,6 @@
 		"defname": "VCE_DeepFriedSushi"
 	},
 	{
-		"abr": "human"surimi"",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCE_HumanSurimi"
-	},
-	{
 		"abr": "soybeans",
 		"price": 2,
 		"category": "Vegetarian",
