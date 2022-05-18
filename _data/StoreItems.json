@@ -1282,7 +1282,7 @@
 		"abr": "smallvanometricpowercell",
 		"price": 667,
 		"category": "Special",
-		"defname": "VFE_SmallVanometricPowerCell
+		"defname": "VFE_SmallVanometricPowerCell"
 	},
 	{
 		"abr": "largevanometricpowercell",
