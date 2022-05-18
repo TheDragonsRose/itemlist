@@ -10,24 +10,6 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
-    "usage": "!refreshviewers",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "RefreshViewers"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
     "description": "Awards all active viewers coins.",
     "name": "Karma round",
     "usage": "!karmaround",
@@ -111,24 +93,6 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Toggles coin generation.",
-    "name": "Toggle coins",
-    "usage": "!togglecoins",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
       "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
@@ -142,24 +106,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "CheckBalance"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "WhatIsKarma"
   },
   {
     "data": {
@@ -200,24 +146,6 @@
   {
     "data": {
       "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod info",
-    "usage": "!modinfo",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModInfo"
-  },
-  {
-    "data": {
-      "isShortcut": false,
       "isBuy": true,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -232,60 +160,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Buy"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "LevelSkillShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod settings",
-    "usage": "!modsettings",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModSettings"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Instructions"
   },
   {
     "data": {
@@ -304,24 +178,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "InstalledMods"
   },
   {
     "data": {
@@ -412,42 +268,6 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "HealAllShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
-    "name": "Passion shuffle",
-    "usage": "!passionshuffle [skill]",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "PassionShuffleShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "SurgeryShortcut"
   },
   {
     "data": {
@@ -736,24 +556,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnBody"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnWork"
   },
   {
     "data": {
