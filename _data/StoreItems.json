@@ -205,72 +205,6 @@
 		"defname": "AnimalBed"
 	},
 	{
-		"abr": "diningchair",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "DiningChair"
-	},
-	{
-		"abr": "armchair",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Armchair"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "EndTable"
-	},
-	{
-		"abr": "table(1x2)",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "Table1x2c"
-	},
-	{
-		"abr": "plantpot",
-		"price": 68,
-		"category": "Furniture",
-		"defname": "PlantPot"
-	},
-	{
-		"abr": "torchlamp",
-		"price": 41,
-		"category": "Misc",
-		"defname": "TorchLamp"
-	},
-	{
-		"abr": "standinglamp",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "StandingLamp"
-	},
-	{
-		"abr": "sunlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "SunLamp"
-	},
-	{
-		"abr": "shelf",
-		"price": 104,
-		"category": "Furniture",
-		"defname": "Shelf"
-	},
-	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "Dresser"
-	},
-	{
-		"abr": "horseshoespin",
-		"price": 34,
-		"category": "Recreation",
-		"defname": "HorseshoesPin"
-	},
-	{
 		"abr": "hoopstonering",
 		"price": 67,
 		"category": "Recreation",
@@ -307,12 +241,6 @@
 		"defname": "TubeTelevision"
 	},
 	{
-		"abr": "flatscreentelevision",
-		"price": 1533,
-		"category": "Recreation",
-		"defname": "FlatscreenTelevision"
-	},
-	{
 		"abr": "megascreentelevision",
 		"price": 2475,
 		"category": "Recreation",
@@ -323,12 +251,6 @@
 		"price": 583,
 		"category": "Recreation",
 		"defname": "Telescope"
-	},
-	{
-		"abr": "eggbox",
-		"price": 79,
-		"category": "Misc",
-		"defname": "EggBox"
 	},
 	{
 		"abr": "firefoampopper",
@@ -343,46 +265,16 @@
 		"defname": "MoisturePump"
 	},
 	{
-		"abr": "podlauncher",
-		"price": 230,
-		"category": "Misc",
-		"defname": "PodLauncher"
-	},
-	{
-		"abr": "transportpod",
-		"price": 253,
-		"category": "Misc",
-		"defname": "TransportPod"
-	},
-	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
 	},
 	{
-		"abr": "toolcabinet",
-		"price": 642,
-		"category": "Misc",
-		"defname": "ToolCabinet"
-	},
-	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
 		"category": "Misc",
 		"defname": "CryptosleepCasket"
-	},
-	{
-		"abr": "wood-firedgenerator",
-		"price": 442,
-		"category": "Misc",
-		"defname": "WoodFiredGenerator"
-	},
-	{
-		"abr": "chemfuelpoweredgenerator",
-		"price": 492,
-		"category": "Misc",
-		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "windturbine",
@@ -419,12 +311,6 @@
 		"price": 383,
 		"category": "Misc",
 		"defname": "HydroponicsBasin"
-	},
-	{
-		"abr": "sandbags",
-		"price": 18,
-		"category": "Misc",
-		"defname": "Sandbags"
 	},
 	{
 		"abr": "mini-turret",
@@ -479,36 +365,6 @@
 		"price": 458,
 		"category": "Misc",
 		"defname": "Cooler"
-	},
-	{
-		"abr": "vent",
-		"price": 97,
-		"category": "Misc",
-		"defname": "Vent"
-	},
-	{
-		"abr": "go-juice",
-		"price": 88,
-		"category": "Drugs",
-		"defname": "GoJuice"
-	},
-	{
-		"abr": "archotecheye",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechEye"
-	},
-	{
-		"abr": "archotecharm",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechArm"
-	},
-	{
-		"abr": "archotechleg",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "bioniceye",
@@ -859,12 +715,6 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "penoxycyline",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "Penoxycyline"
-	},
-	{
 		"abr": "grizzlybear",
 		"price": 1167,
 		"category": "Animals",
@@ -1003,12 +853,6 @@
 		"defname": "Wolf_Timber"
 	},
 	{
-		"abr": "arcticwolf",
-		"price": 583,
-		"category": "Animals",
-		"defname": "Wolf_Arctic"
-	},
-	{
 		"abr": "revolver",
 		"price": 226,
 		"category": "Ranged weapons",
@@ -1033,30 +877,6 @@
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "pumpshotgun",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "Gun_PumpShotgun"
-	},
-	{
-		"abr": "chainshotgun",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "Gun_ChainShotgun"
-	},
-	{
-		"abr": "heavysmg",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "Gun_HeavySMG"
-	},
-	{
-		"abr": "lmg",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "Gun_LMG"
-	},
-	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
@@ -1075,18 +895,6 @@
 		"defname": "Gun_Minigun"
 	},
 	{
-		"abr": "triplerocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_TripleRocket"
-	},
-	{
-		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_DoomsdayRocket"
-	},
-	{
 		"abr": "fraggrenades",
 		"price": 442,
 		"category": "Grenades",
@@ -1097,12 +905,6 @@
 		"price": 408,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMolotov"
-	},
-	{
-		"abr": "empgrenades",
-		"price": 525,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeEMP"
 	},
 	{
 		"abr": "recurvebow",
@@ -1127,54 +929,6 @@
 		"price": 2258,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "bed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleB"
-	},
-	{
-		"abr": "doublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDouble"
-	},
-	{
-		"abr": "doublebed2",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleB"
-	},
-	{
-		"abr": "classydoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "GL_ClassyDoubleBed"
-	},
-	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "RGK_Dresser"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "RGK_EndTable"
-	},
-	{
-		"abr": "endtable",
-		"price": 138,
-		"category": "Furniture",
-		"defname": "RGK_EndTableWithLamp"
-	},
-	{
-		"abr": "diningchair",
-		"price": 192,
-		"category": "Furniture",
-		"defname": "RGKDiningChair"
 	},
 	{
 		"abr": "minitable",
@@ -1273,12 +1027,6 @@
 		"defname": "LWM_WeaponsLocker"
 	},
 	{
-		"abr": "industrialradio",
-		"price": 433,
-		"category": "Recreation",
-		"defname": "Radio_Industrial"
-	},
-	{
 		"abr": "longwaveradio",
 		"price": 1033,
 		"category": "Recreation",
@@ -1321,12 +1069,6 @@
 		"defname": "AirConditioningUnit"
 	},
 	{
-		"abr": "operatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable"
-	},
-	{
 		"abr": "vitalscentre",
 		"price": 1125,
 		"category": "Misc",
@@ -1357,28 +1099,10 @@
 		"defname": "VCEF_RawCatfish"
 	},
 	{
-		"abr": "eel",
-		"price": 2,
-		"category": "Raw fish",
-		"defname": "VCEF_RawEel"
-	},
-	{
-		"abr": "goldfish",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCEF_RawGoldfish"
-	},
-	{
 		"abr": "halibut",
 		"price": 3,
 		"category": "Raw fish",
-		"defname": "VCEF_RawHalibut"
-	},
-	{
-		"abr": "koi",
-		"price": 4,
-		"category": "Raw fish",
-		"defname": "VCEF_RawKoi"
+		"defname": "VCEF_RawHalibut
 	},
 	{
 		"abr": "lobster",
@@ -1391,12 +1115,6 @@
 		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMackerel"
-	},
-	{
-		"abr": "salmon",
-		"price": 9,
-		"category": "Raw fish",
-		"defname": "VCEF_RawSalmon"
 	},
 	{
 		"abr": "swordfish",
@@ -1445,12 +1163,6 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "AEXP_Pug"
-	},
-	{
-		"abr": "rottweiler",
-		"price": 417,
-		"category": "Animals",
-		"defname": "AEXP_Rottweiler"
 	},
 	{
 		"abr": "cherries",
@@ -1561,18 +1273,6 @@
 		"defname": "VPE_NuclearGenerator"
 	},
 	{
-		"abr": "industrialwood-firedgenerator",
-		"price": 808,
-		"category": "Misc",
-		"defname": "VFE_IndustrialWoodFiredGenerator"
-	},
-	{
-		"abr": "industrialchemfuelpoweredgenerator",
-		"price": 908,
-		"category": "Misc",
-		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
-	},
-	{
 		"abr": "tidalgenerator",
 		"price": 1500,
 		"category": "Misc",
@@ -1582,19 +1282,13 @@
 		"abr": "smallvanometricpowercell",
 		"price": 667,
 		"category": "Special",
-		"defname": "VFE_SmallVanometricPowerCell"
+		"defname": "VFE_SmallVanometricPowerCell
 	},
 	{
 		"abr": "largevanometricpowercell",
 		"price": 4000,
 		"category": "Special",
 		"defname": "VFE_LargeVanometricPowerCell"
-	},
-	{
-		"abr": "archotechviolencegenerator",
-		"price": 5667,
-		"category": "Special",
-		"defname": "VPE_ArchotechViolenceGenerator"
 	},
 	{
 		"abr": "moose",
@@ -1633,12 +1327,6 @@
 		"defname": "AEXP_Hippopotamus"
 	},
 	{
-		"abr": "zebra",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "AEXP_Zebra"
-	},
-	{
 		"abr": "tiger",
 		"price": 1083,
 		"category": "Animals",
@@ -1655,24 +1343,6 @@
 		"price": 333,
 		"category": "Animals",
 		"defname": "AEXP_Seal"
-	},
-	{
-		"abr": "simplebake",
-		"price": 25,
-		"category": "Meals",
-		"defname": "VCE_SimpleBake"
-	},
-	{
-		"abr": "finebake",
-		"price": 33,
-		"category": "Meals",
-		"defname": "VCE_FineBake"
-	},
-	{
-		"abr": "lavishbake",
-		"price": 67,
-		"category": "Meals",
-		"defname": "VCE_LavishBake"
 	},
 	{
 		"abr": "gourmetbake",
@@ -1729,12 +1399,6 @@
 		"defname": "Building_RTCircuitBreaker"
 	},
 	{
-		"abr": "makeshiftfuse",
-		"price": 120,
-		"category": "Power",
-		"defname": "Building_RTMakeshiftFuse"
-	},
-	{
 		"abr": "kangaroo",
 		"price": 417,
 		"category": "Animals",
@@ -1765,28 +1429,10 @@
 		"defname": "AA_SkySteel"
 	},
 	{
-		"abr": "unrefineduraniumcrystals",
-		"price": 108,
-		"category": "Raw resources",
-		"defname": "AA_UraniumCrystals"
-	},
-	{
 		"abr": "bluegel",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "AA_BlueGel"
-	},
-	{
-		"abr": "hexagel",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "AA_Hexagel"
-	},
-	{
-		"abr": "hexagelcore",
-		"price": 70,
-		"category": "Manufactured",
-		"defname": "AA_HexagelCore"
 	},
 	{
 		"abr": "blackinsectchitin",
@@ -1819,34 +1465,10 @@
 		"defname": "AIRobot_RechargeStation_Hauler_III"
 	},
 	{
-		"abr": "hauler(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
-	},
-	{
-		"abr": "hauler(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
-	},
-	{
 		"abr": "cleaner(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_III"
-	},
-	{
-		"abr": "cleaner(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
-	},
-	{
-		"abr": "cleaner(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
 	{
 		"abr": "builder(iii)basestation",
@@ -1855,34 +1477,10 @@
 		"defname": "RPP_RechargeStation_Builder_III"
 	},
 	{
-		"abr": "builder(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "builder(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
 		"abr": "crafter(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_III"
-	},
-	{
-		"abr": "crafter(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_IV"
-	},
-	{
-		"abr": "crafter(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_V"
 	},
 	{
 		"abr": "er(iii)basestation",
@@ -1891,34 +1489,10 @@
 		"defname": "RPP_RechargeStation_ER_III"
 	},
 	{
-		"abr": "er(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_IV"
-	},
-	{
-		"abr": "er(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_V"
-	},
-	{
 		"abr": "kitchen(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "kitchen(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "kitchen(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
 	{
 		"abr": "omni(v)basestation",
@@ -1961,12 +1535,6 @@
 		"price": 17967,
 		"category": "Items",
 		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "rawfish",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AEXP_RawFish"
 	},
 	{
 		"abr": "giantpanda",
@@ -2225,1278 +1793,6 @@
 		"price": 3000,
 		"category": "PokÃ© Ball belts",
 		"defname": "PW_MasterBallBelt"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBulbasaur"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCharmander"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSquirtle"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCaterpie"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWeedle"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPidgey"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRattata"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpearow"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggEkans"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSandshrew"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNidoranF"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNidoranM"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggVulpix"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggZubat"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggOddish"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggParas"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggVenonat"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDiglett"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMeowth"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPsyduck"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMankey"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGrowlithe"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPoliwag"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAbra"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMachop"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBellsprout"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTentacool"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGeodude"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPonyta"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSlowpoke"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMagnemite"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggFarfetchd"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDoduo"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSeel"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGrimer"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShellder"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGastly"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggOnix"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDrowzee"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKrabby"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggVoltorb"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggExeggcute"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCubone"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLickitung"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKoffing"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRhyhorn"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTangela"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKangaskhan"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHorsea"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGoldeen"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggStaryu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggScyther"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPinsir"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTauros"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMagikarp"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLapras"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggEevee"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPorygon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggOmanyte"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKabuto"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAerodactyl"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDratini"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggChikorita"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCyndaquil"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTotodile"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSentret"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHoothoot"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLedyba"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpinarak"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggChinchou"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPichu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCleffa"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggIgglybuff"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTogepi"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNatu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMareep"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHoppip"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAipom"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSunkern"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggYanma"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWooper"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMurkrow"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMisdreavus"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGirafarig"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPineco"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDunsparce"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGligar"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSnubbull"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggQwilfish"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShuckle"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHeracross"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSneasel"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTeddiursa"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSlugma"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSwinub"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCorsola"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRemoraid"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDelibird"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSkarmory"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHoundour"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPhanpy"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggStantler"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSmeargle"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTyrogue"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSmoochum"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggElekid"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMagby"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMiltank"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLarvitar"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTreecko"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTorchic"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMudkip"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPoochyena"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggZigzagoon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWurmple"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLotad"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSeedot"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTaillow"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWingull"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRalts"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSurskit"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShroomish"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSlakoth"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNincada"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWhismur"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMakuhita"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAzurill"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNosepass"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSkitty"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSableye"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMawile"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAron"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMeditite"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggElectrike"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPlusle"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMinun"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggVolbeat"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggIllumise"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGulpin"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCarvanha"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWailmer"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggNumel"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTorkoal"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpoink"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpinda"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTrapinch"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCacnea"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSwablu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggZangoose"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSeviper"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLunatone"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSolrock"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBarboach"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCorphish"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBaltoy"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLileep"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAnorith"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggFeebas"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCastform"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKecleon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShuppet"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDuskull"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTropius"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggAbsol"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggWynaut"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSnorunt"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpheal"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggClamperl"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRelicanth"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggLuvdisc"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBagon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBeldum"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggTurtwig"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggChimchar"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPiplup"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggStarly"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBidoof"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggKricketot"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShinx"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBudew"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCranidos"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShieldon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBurmy"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCombee"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPachirisu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBuizel"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCherubi"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggShellos"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggDrifloon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBuneary"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGlameow"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggChingling"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggStunky"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBronzor"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggBonsly"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMimeJr"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHappiny"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggChatot"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSpiritomb"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggGible"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMunchlax"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRiolu"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggHippopotas"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSkorupi"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCroagunk"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggCarnivine"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggFinneon"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggMantyke"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggSnover"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggRotom"
-	},
-	{
-		"abr": "pokÃ©monegg",
-		"price": 333,
-		"category": "PokÃ©mon eggs",
-		"defname": "PW_EggPhione"
-	},
-	{
-		"abr": "portablecomputer",
-		"price": 317,
-		"category": "Buildings",
-		"defname": "PW_PortableComputer"
 	},
 	{
 		"abr": "bulbasaur",
@@ -6475,12 +4771,6 @@
 		"defname": "VBE_Whiskey"
 	},
 	{
-		"abr": "coffee",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "VBE_HotCoffee"
-	},
-	{
 		"abr": "icedcoffee",
 		"price": 15,
 		"category": "Drugs",
@@ -6521,12 +4811,6 @@
 		"price": 25,
 		"category": "Meals",
 		"defname": "VCE_Norimaki"
-	},
-	{
-		"abr": "ultrascreentelevision",
-		"price": 4100,
-		"category": "Recreation",
-		"defname": "UltrascreenTV"
 	},
 	{
 		"abr": "chickenmeat",
