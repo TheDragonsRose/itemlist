@@ -35,30 +35,31 @@ title: Store
         {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
+                         
     {%- if item.category == "Animal products" -%}
         {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
 
     {%- if item.category == "Drugs" -%}
-            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-            {%- continue -%}
-        {%- endif -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
 
     {%- if item.category == "Fish" -%}
-            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-            {%- continue -%}
-        {%- endif -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
 
     {%- if item.category == "Meals" -%}
-            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-            {%- continue -%}
-        {%- endif -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
 
     {%- if item.category == "Foods" -%}
-            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-            {%- continue -%}
-        {%- endif -%}                     
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}                     
     {%- endfor -%}
 
     {%- for trait in site.data.ShopExt.traits -%}
@@ -103,8 +104,9 @@ title: Store
     {%- endif -%}
 
     {%- if FoodForDisplay.size > 0 -%}
-            {%- include tab.html id='food' -%}
-        {%- endif -%}
+        {%- include tab.html id='food' -%}
+    {%- endif -%}
+
 </div>
 
 {%- if itemsForDisplay.size > 0 -%}
@@ -218,7 +220,7 @@ title: Store
         {{ site.data.language.name_header }},{{ site.data.language.cost_header }}
     {% endcapture %}
 
-  {%- include store_tab.html
+    {%- include store_tab.html
         id='food'
         type='Food'
         buyName=buyName
