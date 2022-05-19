@@ -50,6 +50,12 @@ store:
     weight: true
     quantity: true
     karma: true
+  Food:
+    category: true
+    weight: true
+    karma: true
+    quantity: true
+    mod: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
