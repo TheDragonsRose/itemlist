@@ -40,32 +40,32 @@ title: Store
         {%- continue -%}
     {%- endif -%}
 
-{%- if item.category == "Drugs" -%}
-        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-        {%- continue -%}
-    {%- endif -%}
+    {%- if item.category == "Drugs" -%}
+            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+            {%- continue -%}
+        {%- endif -%}
 
-{%- if item.category == "Fish" -%}
-        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-        {%- continue -%}
-    {%- endif -%}
+    {%- if item.category == "Fish" -%}
+            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+            {%- continue -%}
+        {%- endif -%}
 
-{%- if item.category == "Meals" -%}
-        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-        {%- continue -%}
-    {%- endif -%}
+    {%- if item.category == "Meals" -%}
+            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+            {%- continue -%}
+        {%- endif -%}
 
-{%- if item.category == "Foods" -%}
-        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
-        {%- continue -%}
-    {%- endif -%}                     
-{%- endfor -%}
+    {%- if item.category == "Foods" -%}
+            {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+            {%- continue -%}
+        {%- endif -%}                     
+    {%- endfor -%}
 
-{%- for trait in site.data.ShopExt.traits -%}
-    {%- if trait.canAdd == true or trait.canRemove == true -%}
-        {%- assign traitsForDisplay = traitsForDisplay | push: trait | sort: "name" -%}
-    {%- endif -%}
-{%- endfor -%}
+    {%- for trait in site.data.ShopExt.traits -%}
+        {%- if trait.canAdd == true or trait.canRemove == true -%}
+            {%- assign traitsForDisplay = traitsForDisplay | push: trait | sort: "name" -%}
+        {%- endif -%}
+    {%- endfor -%}
 
 {%- assign buy = "" -%}
 {%- for command in site.data.commands -%}
@@ -102,9 +102,9 @@ title: Store
         {%- include tab.html id='kinds' -%}
     {%- endif -%}
 
-{%- if FoodForDisplay.size > 0 -%}
-        {%- include tab.html id='food' -%}
-    {%- endif -%}
+    {%- if FoodForDisplay.size > 0 -%}
+            {%- include tab.html id='food' -%}
+        {%- endif -%}
 </div>
 
 {%- if itemsForDisplay.size > 0 -%}
