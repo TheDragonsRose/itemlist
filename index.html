@@ -14,6 +14,7 @@ title: Store
 {%- assign traitsForDisplay = '' | split: ',' -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign weaponsForDisplay = '' | split: ',' -%}
+{%- assign FoodForDisplay = '' | split: ',' -%}
 
 {%- for item in site.data.StoreItems.items -%}
     {%- if item.price <= 0 -%}
@@ -34,6 +35,30 @@ title: Store
         {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
+    {%- if item.category == "Animal products" -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
+
+{%- if item.category == "Drugs" -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
+
+{%- if item.category == "Fish" -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
+
+{%- if item.category == "Meals" -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
+
+{%- if item.category == "Foods" -%}
+        {%- assign FoodForDisplay = FoodForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}                     
 {%- endfor -%}
 
 {%- for trait in site.data.ShopExt.traits -%}
