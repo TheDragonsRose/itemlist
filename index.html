@@ -213,6 +213,20 @@ title: Store
         placeholder=site.data.language.search_pawn_kinds -%}
 {%- endif -%}
 
+{%- if FoodForDisplay.size > 0 -%}
+    {% capture headers %}
+        {{ site.data.language.name_header }},{{ site.data.language.cost_header }}
+    {% endcapture %}
+
+  {%- include store_tab.html
+        id='food'
+        type='Food'
+        buyName=buyName
+        priceDataHeaders=site.data.language.price_header
+        headers=headers
+        displayData=FoodForDisplay
+        placeholder=site.data.language.search_food -%}
+{%- endif -%}
 
 <script>
     window.addEventListener("load", function (event) {
