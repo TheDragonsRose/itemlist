@@ -1645,6 +1645,12 @@
 		"defname": "Sapphire"
 	},
 	{
+		"abr": "ostrich",
+		"price": 400,
+		"category": "Animals",
+		"defname": "Ostrich"
+	},
+	{
 		"abr": "potion",
 		"price": 15,
 		"category": "Healing",
@@ -1694,2959 +1700,2959 @@
 	},
 	{
 		"abr": "bulbasaur",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bulbasaur"
 	},
 	{
 		"abr": "ivysaur",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ivysaur"
 	},
 	{
 		"abr": "venusaur",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Venusaur"
 	},
 	{
 		"abr": "charmander",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Charmander"
 	},
 	{
 		"abr": "charmeleon",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Charmeleon"
 	},
 	{
 		"abr": "charizard",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Charizard"
 	},
 	{
 		"abr": "squirtle",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Squirtle"
 	},
 	{
 		"abr": "wartortle",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Wartortle"
 	},
 	{
 		"abr": "blastoise",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Blastoise"
 	},
 	{
 		"abr": "caterpie",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Caterpie"
 	},
 	{
 		"abr": "metapod",
-		"price": 417,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Metapod"
 	},
 	{
 		"abr": "butterfree",
-		"price": 750,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Butterfree"
 	},
 	{
 		"abr": "weedle",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Weedle"
 	},
 	{
 		"abr": "kakuna",
-		"price": 417,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kakuna"
 	},
 	{
 		"abr": "beedrill",
-		"price": 750,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Beedrill"
 	},
 	{
 		"abr": "pidgey",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Pidgey"
 	},
 	{
 		"abr": "pidgeotto",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Pidgeotto"
 	},
 	{
 		"abr": "pidgeot",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Pidgeot"
 	},
 	{
 		"abr": "rattata",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Rattata"
 	},
 	{
 		"abr": "raticate",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Raticate"
 	},
 	{
 		"abr": "spearow",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Spearow"
 	},
 	{
 		"abr": "fearow",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Fearow"
 	},
 	{
 		"abr": "ekans",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Ekans"
 	},
 	{
 		"abr": "arbok",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Arbok"
 	},
 	{
 		"abr": "pikachu",
-		"price": 583,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Pikachu"
 	},
 	{
 		"abr": "raichu",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Raichu"
 	},
 	{
 		"abr": "sandshrew",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Sandshrew"
 	},
 	{
 		"abr": "sandslash",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Sandslash"
 	},
 	{
 		"abr": "nidoranâ™€",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_NidoranF"
 	},
 	{
 		"abr": "nidorina",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Nidorina"
 	},
 	{
 		"abr": "nidoqueen",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Nidoqueen"
 	},
 	{
 		"abr": "nidoranâ™‚",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_NidoranM"
 	},
 	{
 		"abr": "nidorino",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Nidorino"
 	},
 	{
 		"abr": "nidoking",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Nidoking"
 	},
 	{
 		"abr": "clefairy",
-		"price": 583,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Clefairy"
 	},
 	{
 		"abr": "clefable",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Clefable"
 	},
 	{
 		"abr": "vulpix",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Vulpix"
 	},
 	{
 		"abr": "ninetales",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ninetales"
 	},
 	{
 		"abr": "jigglypuff",
-		"price": 500,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Jigglypuff"
 	},
 	{
 		"abr": "wigglytuff",
-		"price": 833,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Wigglytuff"
 	},
 	{
 		"abr": "zubat",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Zubat"
 	},
 	{
 		"abr": "golbat",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Golbat"
 	},
 	{
 		"abr": "oddish",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Oddish"
 	},
 	{
 		"abr": "gloom",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gloom"
 	},
 	{
 		"abr": "vileplume",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Vileplume"
 	},
 	{
 		"abr": "paras",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Paras"
 	},
 	{
 		"abr": "parasect",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Parasect"
 	},
 	{
 		"abr": "venonat",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Venonat"
 	},
 	{
 		"abr": "venomoth",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Venomoth"
 	},
 	{
 		"abr": "diglett",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Diglett"
 	},
 	{
 		"abr": "dugtrio",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Dugtrio"
 	},
 	{
 		"abr": "meowth",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Meowth"
 	},
 	{
 		"abr": "persian",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Persian"
 	},
 	{
 		"abr": "psyduck",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Psyduck"
 	},
 	{
 		"abr": "golduck",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Golduck"
 	},
 	{
 		"abr": "mankey",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Mankey"
 	},
 	{
 		"abr": "primeape",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Primeape"
 	},
 	{
 		"abr": "growlithe",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Growlithe"
 	},
 	{
 		"abr": "arcanine",
-		"price": 1083,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Arcanine"
 	},
 	{
 		"abr": "poliwag",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Poliwag"
 	},
 	{
 		"abr": "poliwhirl",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Poliwhirl"
 	},
 	{
 		"abr": "poliwrath",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Poliwrath"
 	},
 	{
 		"abr": "abra",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Abra"
 	},
 	{
 		"abr": "kadabra",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kadabra"
 	},
 	{
 		"abr": "alakazam",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Alakazam"
 	},
 	{
 		"abr": "machop",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Machop"
 	},
 	{
 		"abr": "machoke",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Machoke"
 	},
 	{
 		"abr": "machamp",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Machamp"
 	},
 	{
 		"abr": "bellsprout",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bellsprout"
 	},
 	{
 		"abr": "weepinbell",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Weepinbell"
 	},
 	{
 		"abr": "victreebel",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Victreebel"
 	},
 	{
 		"abr": "tentacool",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Tentacool"
 	},
 	{
 		"abr": "tentacruel",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Tentacruel"
 	},
 	{
 		"abr": "geodude",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Geodude"
 	},
 	{
 		"abr": "graveler",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Graveler"
 	},
 	{
 		"abr": "golem",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Golem"
 	},
 	{
 		"abr": "ponyta",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Ponyta"
 	},
 	{
 		"abr": "rapidash",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Rapidash"
 	},
 	{
 		"abr": "slowpoke",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Slowpoke"
 	},
 	{
 		"abr": "slowbro",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Slowbro"
 	},
 	{
 		"abr": "magnemite",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Magnemite"
 	},
 	{
 		"abr": "magneton",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Magneton"
 	},
 	{
 		"abr": "farfetch'd",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Farfetchd"
 	},
 	{
 		"abr": "doduo",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Doduo"
 	},
 	{
 		"abr": "dodrio",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Dodrio"
 	},
 	{
 		"abr": "seel",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Seel"
 	},
 	{
 		"abr": "dewgong",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Dewgong"
 	},
 	{
 		"abr": "grimer",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Grimer"
 	},
 	{
 		"abr": "muk",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Muk"
 	},
 	{
 		"abr": "shellder",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shellder"
 	},
 	{
 		"abr": "cloyster",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Cloyster"
 	},
 	{
 		"abr": "gastly",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Gastly"
 	},
 	{
 		"abr": "haunter",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Haunter"
 	},
 	{
 		"abr": "gengar",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Gengar"
 	},
 	{
 		"abr": "onix",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Onix"
 	},
 	{
 		"abr": "drowzee",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Drowzee"
 	},
 	{
 		"abr": "hypno",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Hypno"
 	},
 	{
 		"abr": "krabby",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Krabby"
 	},
 	{
 		"abr": "kingler",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kingler"
 	},
 	{
 		"abr": "voltorb",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Voltorb"
 	},
 	{
 		"abr": "electrode",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Electrode"
 	},
 	{
 		"abr": "exeggcute",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Exeggcute"
 	},
 	{
 		"abr": "exeggutor",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Exeggutor"
 	},
 	{
 		"abr": "cubone",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cubone"
 	},
 	{
 		"abr": "marowak",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Marowak"
 	},
 	{
 		"abr": "hitmonlee",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Hitmonlee"
 	},
 	{
 		"abr": "hitmonchan",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Hitmonchan"
 	},
 	{
 		"abr": "lickitung",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Lickitung"
 	},
 	{
 		"abr": "koffing",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Koffing"
 	},
 	{
 		"abr": "weezing",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Weezing"
 	},
 	{
 		"abr": "rhyhorn",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Rhyhorn"
 	},
 	{
 		"abr": "rhydon",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Rhydon"
 	},
 	{
 		"abr": "chansey",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chansey"
 	},
 	{
 		"abr": "tangela",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Tangela"
 	},
 	{
 		"abr": "kangaskhan",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Kangaskhan"
 	},
 	{
 		"abr": "horsea",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Horsea"
 	},
 	{
 		"abr": "seadra",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Seadra"
 	},
 	{
 		"abr": "goldeen",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Goldeen"
 	},
 	{
 		"abr": "seaking",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Seaking"
 	},
 	{
 		"abr": "staryu",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Staryu"
 	},
 	{
 		"abr": "starmie",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Starmie"
 	},
 	{
 		"abr": "mr.mime",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_MrMime"
 	},
 	{
 		"abr": "scyther",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Scyther"
 	},
 	{
 		"abr": "jynx",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Jynx"
 	},
 	{
 		"abr": "electabuzz",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Electabuzz"
 	},
 	{
 		"abr": "magmar",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Magmar"
 	},
 	{
 		"abr": "pinsir",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Pinsir"
 	},
 	{
 		"abr": "tauros",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Tauros"
 	},
 	{
 		"abr": "magikarp",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Magikarp"
 	},
 	{
 		"abr": "gyarados",
-		"price": 1083,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gyarados"
 	},
 	{
 		"abr": "lapras",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Lapras"
 	},
 	{
 		"abr": "ditto",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Ditto"
 	},
 	{
 		"abr": "eevee",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Eevee"
 	},
 	{
 		"abr": "vaporeon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Vaporeon"
 	},
 	{
 		"abr": "jolteon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Jolteon"
 	},
 	{
 		"abr": "flareon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Flareon"
 	},
 	{
 		"abr": "porygon",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Porygon"
 	},
 	{
 		"abr": "omanyte",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Omanyte"
 	},
 	{
 		"abr": "omastar",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Omastar"
 	},
 	{
 		"abr": "kabuto",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Kabuto"
 	},
 	{
 		"abr": "kabutops",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kabutops"
 	},
 	{
 		"abr": "aerodactyl",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Aerodactyl"
 	},
 	{
 		"abr": "snorlax",
-		"price": 1083,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Snorlax"
 	},
 	{
 		"abr": "articuno",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Articuno"
 	},
 	{
 		"abr": "zapdos",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Zapdos"
 	},
 	{
 		"abr": "moltres",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Moltres"
 	},
 	{
 		"abr": "dratini",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Dratini"
 	},
 	{
 		"abr": "dragonair",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Dragonair"
 	},
 	{
 		"abr": "dragonite",
-		"price": 1167,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Dragonite"
 	},
 	{
 		"abr": "mewtwo",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Mewtwo"
 	},
 	{
 		"abr": "mew",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Mew"
 	},
 	{
 		"abr": "chikorita",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chikorita"
 	},
 	{
 		"abr": "bayleef",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Bayleef"
 	},
 	{
 		"abr": "meganium",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Meganium"
 	},
 	{
 		"abr": "cyndaquil",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cyndaquil"
 	},
 	{
 		"abr": "quilava",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Quilava"
 	},
 	{
 		"abr": "typhlosion",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Typhlosion"
 	},
 	{
 		"abr": "totodile",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Totodile"
 	},
 	{
 		"abr": "croconaw",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Croconaw"
 	},
 	{
 		"abr": "feraligatr",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Feraligatr"
 	},
 	{
 		"abr": "sentret",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Sentret"
 	},
 	{
 		"abr": "furret",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Furret"
 	},
 	{
 		"abr": "hoothoot",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Hoothoot"
 	},
 	{
 		"abr": "noctowl",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Noctowl"
 	},
 	{
 		"abr": "ledyba",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Ledyba"
 	},
 	{
 		"abr": "ledian",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ledian"
 	},
 	{
 		"abr": "spinarak",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Spinarak"
 	},
 	{
 		"abr": "ariados",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ariados"
 	},
 	{
 		"abr": "crobat",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Crobat"
 	},
 	{
 		"abr": "chinchou",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chinchou"
 	},
 	{
 		"abr": "lanturn",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lanturn"
 	},
 	{
 		"abr": "pichu",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Pichu"
 	},
 	{
 		"abr": "cleffa",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cleffa"
 	},
 	{
 		"abr": "igglybuff",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Igglybuff"
 	},
 	{
 		"abr": "togepi",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Togepi"
 	},
 	{
 		"abr": "togetic",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Togetic"
 	},
 	{
 		"abr": "natu",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Natu"
 	},
 	{
 		"abr": "xatu",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Xatu"
 	},
 	{
 		"abr": "mareep",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Mareep"
 	},
 	{
 		"abr": "flaaffy",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Flaaffy"
 	},
 	{
 		"abr": "ampharos",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Ampharos"
 	},
 	{
 		"abr": "bellossom",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Bellossom"
 	},
 	{
 		"abr": "marill",
-		"price": 500,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Marill"
 	},
 	{
 		"abr": "azumarill",
-		"price": 833,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Azumarill"
 	},
 	{
 		"abr": "sudowoodo",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Sudowoodo"
 	},
 	{
 		"abr": "politoed",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Politoed"
 	},
 	{
 		"abr": "hoppip",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Hoppip"
 	},
 	{
 		"abr": "skiploom",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Skiploom"
 	},
 	{
 		"abr": "jumpluff",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Jumpluff"
 	},
 	{
 		"abr": "aipom",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Aipom"
 	},
 	{
 		"abr": "sunkern",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Sunkern"
 	},
 	{
 		"abr": "sunflora",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Sunflora"
 	},
 	{
 		"abr": "yanma",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Yanma"
 	},
 	{
 		"abr": "wooper",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Wooper"
 	},
 	{
 		"abr": "quagsire",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Quagsire"
 	},
 	{
 		"abr": "espeon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Espeon"
 	},
 	{
 		"abr": "umbreon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Umbreon"
 	},
 	{
 		"abr": "murkrow",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Murkrow"
 	},
 	{
 		"abr": "slowking",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Slowking"
 	},
 	{
 		"abr": "misdreavus",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Misdreavus"
 	},
 	{
 		"abr": "unown",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Unown"
 	},
 	{
 		"abr": "wobbuffet",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Wobbuffet"
 	},
 	{
 		"abr": "girafarig",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Girafarig"
 	},
 	{
 		"abr": "pineco",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Pineco"
 	},
 	{
 		"abr": "forretress",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Forretress"
 	},
 	{
 		"abr": "dunsparce",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Dunsparce"
 	},
 	{
 		"abr": "gligar",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Gligar"
 	},
 	{
 		"abr": "steelix",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Steelix"
 	},
 	{
 		"abr": "snubbull",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Snubbull"
 	},
 	{
 		"abr": "granbull",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Granbull"
 	},
 	{
 		"abr": "qwilfish",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Qwilfish"
 	},
 	{
 		"abr": "scizor",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Scizor"
 	},
 	{
 		"abr": "shuckle",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shuckle"
 	},
 	{
 		"abr": "heracross",
-		"price": 1000,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Heracross"
 	},
 	{
 		"abr": "sneasel",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Sneasel"
 	},
 	{
 		"abr": "teddiursa",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Teddiursa"
 	},
 	{
 		"abr": "ursaring",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ursaring"
 	},
 	{
 		"abr": "slugma",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Slugma"
 	},
 	{
 		"abr": "magcargo",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Magcargo"
 	},
 	{
 		"abr": "swinub",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Swinub"
 	},
 	{
 		"abr": "piloswine",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Piloswine"
 	},
 	{
 		"abr": "corsola",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Corsola"
 	},
 	{
 		"abr": "remoraid",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Remoraid"
 	},
 	{
 		"abr": "octillery",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Octillery"
 	},
 	{
 		"abr": "delibird",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Delibird"
 	},
 	{
 		"abr": "mantine",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Mantine"
 	},
 	{
 		"abr": "skarmory",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Skarmory"
 	},
 	{
 		"abr": "houndour",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Houndour"
 	},
 	{
 		"abr": "houndoom",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Houndoom"
 	},
 	{
 		"abr": "kingdra",
-		"price": 1083,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Kingdra"
 	},
 	{
 		"abr": "phanpy",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Phanpy"
 	},
 	{
 		"abr": "donphan",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Donphan"
 	},
 	{
 		"abr": "porygon2",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Porygon2_"
 	},
 	{
 		"abr": "stantler",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Stantler"
 	},
 	{
 		"abr": "smeargle",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Smeargle"
 	},
 	{
 		"abr": "tyrogue",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Tyrogue"
 	},
 	{
 		"abr": "hitmontop",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Hitmontop"
 	},
 	{
 		"abr": "smoochum",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Smoochum"
 	},
 	{
 		"abr": "elekid",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Elekid"
 	},
 	{
 		"abr": "magby",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Magby"
 	},
 	{
 		"abr": "miltank",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Miltank"
 	},
 	{
 		"abr": "blissey",
-		"price": 1083,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Blissey"
 	},
 	{
 		"abr": "raikou",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Raikou"
 	},
 	{
 		"abr": "entei",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Entei"
 	},
 	{
 		"abr": "suicune",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Suicune"
 	},
 	{
 		"abr": "larvitar",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Larvitar"
 	},
 	{
 		"abr": "pupitar",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Pupitar"
 	},
 	{
 		"abr": "tyranitar",
-		"price": 1167,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Tyranitar"
 	},
 	{
 		"abr": "lugia",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Lugia"
 	},
 	{
 		"abr": "ho-oh",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_HoOh"
 	},
 	{
 		"abr": "celebi",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Celebi"
 	},
 	{
 		"abr": "treecko",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Treecko"
 	},
 	{
 		"abr": "grovyle",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Grovyle"
 	},
 	{
 		"abr": "sceptile",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Sceptile"
 	},
 	{
 		"abr": "torchic",
-		"price": 583,
+		"price": 200,
 		"category": "Animals",
 		"defname": "PW_Torchic"
 	},
 	{
 		"abr": "combusken",
-		"price": 750,
+		"price": 400,
 		"category": "Animals",
 		"defname": "PW_Combusken"
 	},
 	{
 		"abr": "blaziken",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Blaziken"
 	},
 	{
 		"abr": "mudkip",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Mudkip"
 	},
 	{
 		"abr": "marshtomp",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Marshtomp"
 	},
 	{
 		"abr": "swampert",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Swampert"
 	},
 	{
 		"abr": "poochyena",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Poochyena"
 	},
 	{
 		"abr": "mightyena",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Mightyena"
 	},
 	{
 		"abr": "zigzagoon",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Zigzagoon"
 	},
 	{
 		"abr": "linoone",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Linoone"
 	},
 	{
 		"abr": "wurmple",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Wurmple"
 	},
 	{
 		"abr": "silcoon",
-		"price": 417,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Silcoon"
 	},
 	{
 		"abr": "beautifly",
-		"price": 750,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Beautifly"
 	},
 	{
 		"abr": "cascoon",
-		"price": 417,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Cascoon"
 	},
 	{
 		"abr": "dustox",
-		"price": 750,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Dustox"
 	},
 	{
 		"abr": "lotad",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Lotad"
 	},
 	{
 		"abr": "lombre",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lombre"
 	},
 	{
 		"abr": "ludicolo",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Ludicolo"
 	},
 	{
 		"abr": "seedot",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Seedot"
 	},
 	{
 		"abr": "nuzleaf",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Nuzleaf"
 	},
 	{
 		"abr": "shiftry",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Shiftry"
 	},
 	{
 		"abr": "taillow",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Taillow"
 	},
 	{
 		"abr": "swellow",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Swellow"
 	},
 	{
 		"abr": "wingull",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Wingull"
 	},
 	{
 		"abr": "pelipper",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Pelipper"
 	},
 	{
 		"abr": "ralts",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Ralts"
 	},
 	{
 		"abr": "kirlia",
-		"price": 500,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kirlia"
 	},
 	{
 		"abr": "gardevoir",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Gardevoir"
 	},
 	{
 		"abr": "surskit",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Surskit"
 	},
 	{
 		"abr": "masquerain",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Masquerain"
 	},
 	{
 		"abr": "shroomish",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shroomish"
 	},
 	{
 		"abr": "breloom",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Breloom"
 	},
 	{
 		"abr": "slakoth",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Slakoth"
 	},
 	{
 		"abr": "vigoroth",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Vigoroth"
 	},
 	{
 		"abr": "slaking",
-		"price": 1333,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Slaking"
 	},
 	{
 		"abr": "nincada",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Nincada"
 	},
 	{
 		"abr": "ninjask",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ninjask"
 	},
 	{
 		"abr": "shedinja",
-		"price": 417,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Shedinja"
 	},
 	{
 		"abr": "whismur",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Whismur"
 	},
 	{
 		"abr": "loudred",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Loudred"
 	},
 	{
 		"abr": "exploud",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Exploud"
 	},
 	{
 		"abr": "makuhita",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Makuhita"
 	},
 	{
 		"abr": "hariyama",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Hariyama"
 	},
 	{
 		"abr": "azurill",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Azurill"
 	},
 	{
 		"abr": "nosepass",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Nosepass"
 	},
 	{
 		"abr": "skitty",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Skitty"
 	},
 	{
 		"abr": "delcatty",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Delcatty"
 	},
 	{
 		"abr": "sableye",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Sableye"
 	},
 	{
 		"abr": "mawile",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Mawile"
 	},
 	{
 		"abr": "aron",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Aron"
 	},
 	{
 		"abr": "lairon",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lairon"
 	},
 	{
 		"abr": "aggron",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Aggron"
 	},
 	{
 		"abr": "meditite",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Meditite"
 	},
 	{
 		"abr": "medicham",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Medicham"
 	},
 	{
 		"abr": "electrike",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Electrike"
 	},
 	{
 		"abr": "manectric",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Manectric"
 	},
 	{
 		"abr": "plusle",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Plusle"
 	},
 	{
 		"abr": "minun",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Minun"
 	},
 	{
 		"abr": "volbeat",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Volbeat"
 	},
 	{
 		"abr": "illumise",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Illumise"
 	},
 	{
 		"abr": "roselia",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Roselia"
 	},
 	{
 		"abr": "gulpin",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Gulpin"
 	},
 	{
 		"abr": "swalot",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Swalot"
 	},
 	{
 		"abr": "carvanha",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Carvanha"
 	},
 	{
 		"abr": "sharpedo",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Sharpedo"
 	},
 	{
 		"abr": "wailmer",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Wailmer"
 	},
 	{
 		"abr": "wailord",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Wailord"
 	},
 	{
 		"abr": "numel",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Numel"
 	},
 	{
 		"abr": "camerupt",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Camerupt"
 	},
 	{
 		"abr": "torkoal",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Torkoal"
 	},
 	{
 		"abr": "spoink",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Spoink"
 	},
 	{
 		"abr": "grumpig",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Grumpig"
 	},
 	{
 		"abr": "spinda",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Spinda"
 	},
 	{
 		"abr": "trapinch",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Trapinch"
 	},
 	{
 		"abr": "vibrava",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Vibrava"
 	},
 	{
 		"abr": "flygon",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Flygon"
 	},
 	{
 		"abr": "cacnea",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cacnea"
 	},
 	{
 		"abr": "cacturne",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Cacturne"
 	},
 	{
 		"abr": "swablu",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Swablu"
 	},
 	{
 		"abr": "altaria",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Altaria"
 	},
 	{
 		"abr": "zangoose",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Zangoose"
 	},
 	{
 		"abr": "seviper",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Seviper"
 	},
 	{
 		"abr": "lunatone",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Lunatone"
 	},
 	{
 		"abr": "solrock",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Solrock"
 	},
 	{
 		"abr": "barboach",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Barboach"
 	},
 	{
 		"abr": "whiscash",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Whiscash"
 	},
 	{
 		"abr": "corphish",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Corphish"
 	},
 	{
 		"abr": "crawdaunt",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Crawdaunt"
 	},
 	{
 		"abr": "baltoy",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Baltoy"
 	},
 	{
 		"abr": "claydol",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Claydol"
 	},
 	{
 		"abr": "lileep",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Lileep"
 	},
 	{
 		"abr": "cradily",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Cradily"
 	},
 	{
 		"abr": "anorith",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Anorith"
 	},
 	{
 		"abr": "armaldo",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Armaldo"
 	},
 	{
 		"abr": "feebas",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Feebas"
 	},
 	{
 		"abr": "milotic",
-		"price": 1083,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Milotic"
 	},
 	{
 		"abr": "castform",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Castform"
 	},
 	{
 		"abr": "kecleon",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Kecleon"
 	},
 	{
 		"abr": "shuppet",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shuppet"
 	},
 	{
 		"abr": "banette",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Banette"
 	},
 	{
 		"abr": "duskull",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Duskull"
 	},
 	{
 		"abr": "dusclops",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Dusclops"
 	},
 	{
 		"abr": "tropius",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Tropius"
 	},
 	{
 		"abr": "chimecho",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Chimecho"
 	},
 	{
 		"abr": "absol",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Absol"
 	},
 	{
 		"abr": "wynaut",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Wynaut"
 	},
 	{
 		"abr": "snorunt",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Snorunt"
 	},
 	{
 		"abr": "glalie",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Glalie"
 	},
 	{
 		"abr": "spheal",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Spheal"
 	},
 	{
 		"abr": "sealeo",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Sealeo"
 	},
 	{
 		"abr": "walrein",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Walrein"
 	},
 	{
 		"abr": "clamperl",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Clamperl"
 	},
 	{
 		"abr": "huntail",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Huntail"
 	},
 	{
 		"abr": "gorebyss",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gorebyss"
 	},
 	{
 		"abr": "relicanth",
-		"price": 917,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Relicanth"
 	},
 	{
 		"abr": "luvdisc",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Luvdisc"
 	},
 	{
 		"abr": "bagon",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bagon"
 	},
 	{
 		"abr": "shelgon",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Shelgon"
 	},
 	{
 		"abr": "salamence",
-		"price": 1167,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Salamence"
 	},
 	{
 		"abr": "beldum",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Beldum"
 	},
 	{
 		"abr": "metang",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Metang"
 	},
 	{
 		"abr": "metagross",
-		"price": 1167,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Metagross"
 	},
 	{
 		"abr": "regirock",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Regirock"
 	},
 	{
 		"abr": "regice",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Regice"
 	},
 	{
 		"abr": "registeel",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Registeel"
 	},
 	{
 		"abr": "latias",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Latias"
 	},
 	{
 		"abr": "latios",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Latios"
 	},
 	{
 		"abr": "kyogre",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Kyogre"
 	},
 	{
 		"abr": "groudon",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Groudon"
 	},
 	{
 		"abr": "rayquaza",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Rayquaza"
 	},
 	{
 		"abr": "jirachi",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Jirachi"
 	},
 	{
 		"abr": "deoxys",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Deoxys"
 	},
 	{
 		"abr": "turtwig",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Turtwig"
 	},
 	{
 		"abr": "grotle",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Grotle"
 	},
 	{
 		"abr": "torterra",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Torterra"
 	},
 	{
 		"abr": "chimchar",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chimchar"
 	},
 	{
 		"abr": "monferno",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Monferno"
 	},
 	{
 		"abr": "infernape",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Infernape"
 	},
 	{
 		"abr": "piplup",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Piplup"
 	},
 	{
 		"abr": "prinplup",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Prinplup"
 	},
 	{
 		"abr": "empoleon",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Empoleon"
 	},
 	{
 		"abr": "starly",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Starly"
 	},
 	{
 		"abr": "staravia",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Staravia"
 	},
 	{
 		"abr": "staraptor",
-		"price": 917,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Staraptor"
 	},
 	{
 		"abr": "bidoof",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bidoof"
 	},
 	{
 		"abr": "bibarel",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Bibarel"
 	},
 	{
 		"abr": "kricketot",
-		"price": 333,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Kricketot"
 	},
 	{
 		"abr": "kricketune",
-		"price": 750,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Kricketune"
 	},
 	{
 		"abr": "shinx",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shinx"
 	},
 	{
 		"abr": "luxio",
-		"price": 667,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Luxio"
 	},
 	{
 		"abr": "luxray",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Luxray"
 	},
 	{
 		"abr": "budew",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Budew"
 	},
 	{
 		"abr": "roserade",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Roserade"
 	},
 	{
 		"abr": "cranidos",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cranidos"
 	},
 	{
 		"abr": "rampardos",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Rampardos"
 	},
 	{
 		"abr": "shieldon",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shieldon"
 	},
 	{
 		"abr": "bastiodon",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Bastiodon"
 	},
 	{
 		"abr": "burmy",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Burmy"
 	},
 	{
 		"abr": "wormadam",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Wormadam"
 	},
 	{
 		"abr": "mothim",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Mothim"
 	},
 	{
 		"abr": "combee",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Combee"
 	},
 	{
 		"abr": "vespiquen",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Vespiquen"
 	},
 	{
 		"abr": "pachirisu",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Pachirisu"
 	},
 	{
 		"abr": "buizel",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Buizel"
 	},
 	{
 		"abr": "floatzel",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Floatzel"
 	},
 	{
 		"abr": "cherubi",
-		"price": 500,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Cherubi"
 	},
 	{
 		"abr": "cherrim",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Cherrim"
 	},
 	{
 		"abr": "shellos",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Shellos"
 	},
 	{
 		"abr": "gastrodon",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gastrodon"
 	},
 	{
 		"abr": "ambipom",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Ambipom"
 	},
 	{
 		"abr": "drifloon",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Drifloon"
 	},
 	{
 		"abr": "drifblim",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Drifblim"
 	},
 	{
 		"abr": "buneary",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Buneary"
 	},
 	{
 		"abr": "lopunny",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lopunny"
 	},
 	{
 		"abr": "mismagius",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Mismagius"
 	},
 	{
 		"abr": "honchkrow",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Honchkrow"
 	},
 	{
 		"abr": "glameow",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Glameow"
 	},
 	{
 		"abr": "purugly",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Purugly"
 	},
 	{
 		"abr": "chingling",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chingling"
 	},
 	{
 		"abr": "stunky",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Stunky"
 	},
 	{
 		"abr": "skuntank",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Skuntank"
 	},
 	{
 		"abr": "bronzor",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bronzor"
 	},
 	{
 		"abr": "bronzong",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Bronzong"
 	},
 	{
 		"abr": "bonsly",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Bonsly"
 	},
 	{
 		"abr": "mimejr.",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_MimeJr"
 	},
 	{
 		"abr": "happiny",
-		"price": 417,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Happiny"
 	},
 	{
 		"abr": "chatot",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Chatot"
 	},
 	{
 		"abr": "spiritomb",
-		"price": 917,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "PW_Spiritomb"
 	},
 	{
 		"abr": "gible",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Gible"
 	},
 	{
 		"abr": "gabite",
-		"price": 833,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gabite"
 	},
 	{
 		"abr": "garchomp",
-		"price": 1167,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Garchomp"
 	},
 	{
 		"abr": "munchlax",
-		"price": 750,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Munchlax"
 	},
 	{
 		"abr": "riolu",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Riolu"
 	},
 	{
 		"abr": "lucario",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lucario"
 	},
 	{
 		"abr": "hippopotas",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Hippopotas"
 	},
 	{
 		"abr": "hippowdon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Hippowdon"
 	},
 	{
 		"abr": "skorupi",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Skorupi"
 	},
 	{
 		"abr": "drapion",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Drapion"
 	},
 	{
 		"abr": "croagunk",
-		"price": 583,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Croagunk"
 	},
 	{
 		"abr": "toxicroak",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Toxicroak"
 	},
 	{
 		"abr": "carnivine",
-		"price": 833,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Carnivine"
 	},
 	{
 		"abr": "finneon",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Finneon"
 	},
 	{
 		"abr": "lumineon",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lumineon"
 	},
 	{
 		"abr": "mantyke",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Mantyke"
 	},
 	{
 		"abr": "snover",
-		"price": 667,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "PW_Snover"
 	},
 	{
 		"abr": "abomasnow",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Abomasnow"
 	},
 	{
 		"abr": "weavile",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Weavile"
 	},
 	{
 		"abr": "magnezone",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Magnezone"
 	},
 	{
 		"abr": "lickilicky",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Lickilicky"
 	},
 	{
 		"abr": "rhyperior",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Rhyperior"
 	},
 	{
 		"abr": "tangrowth",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Tangrowth"
 	},
 	{
 		"abr": "electivire",
-		"price": 1083,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Electivire"
 	},
 	{
 		"abr": "magmortar",
-		"price": 1083,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Magmortar"
 	},
 	{
 		"abr": "togekiss",
-		"price": 1083,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Togekiss"
 	},
 	{
 		"abr": "yanmega",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Yanmega"
 	},
 	{
 		"abr": "leafeon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Leafeon"
 	},
 	{
 		"abr": "glaceon",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Glaceon"
 	},
 	{
 		"abr": "gliscor",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Gliscor"
 	},
 	{
 		"abr": "mamoswine",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Mamoswine"
 	},
 	{
 		"abr": "porygon-z",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_PorygonZ"
 	},
 	{
 		"abr": "gallade",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Gallade"
 	},
 	{
 		"abr": "probopass",
-		"price": 1000,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Probopass"
 	},
 	{
 		"abr": "dusknoir",
-		"price": 1000,
+		"price": 6000,
 		"category": "Animals",
 		"defname": "PW_Dusknoir"
 	},
 	{
 		"abr": "froslass",
-		"price": 917,
+		"price": 4000,
 		"category": "Animals",
 		"defname": "PW_Froslass"
 	},
 	{
 		"abr": "rotom",
-		"price": 833,
+		"price": 5000,
 		"category": "Animals",
 		"defname": "PW_Rotom"
 	},
 	{
 		"abr": "uxie",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Uxie"
 	},
 	{
 		"abr": "mesprit",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Mesprit"
 	},
 	{
 		"abr": "azelf",
-		"price": 1083,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Azelf"
 	},
 	{
 		"abr": "dialga",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Dialga"
 	},
 	{
 		"abr": "palkia",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Palkia"
 	},
 	{
 		"abr": "heatran",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Heatran"
 	},
 	{
 		"abr": "regigigas",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Regigigas"
 	},
 	{
 		"abr": "giratina",
-		"price": 1333,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Giratina"
 	},
 	{
 		"abr": "cresselia",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Cresselia"
 	},
 	{
 		"abr": "phione",
-		"price": 917,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Phione"
 	},
 	{
 		"abr": "manaphy",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Manaphy"
 	},
 	{
 		"abr": "darkrai",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Darkrai"
 	},
 	{
 		"abr": "shaymin",
-		"price": 1167,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Shaymin"
 	},
 	{
 		"abr": "arceus",
-		"price": 1417,
+		"price": 10000,
 		"category": "Animals",
 		"defname": "PW_Arceus"
 	},
